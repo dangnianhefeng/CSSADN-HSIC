@@ -1,6 +1,6 @@
 ## Cooperative Spectral-Spatial Attention Dense Network for Hyperspectral Image Classification
 
-Keras implementation of our method for hyperspectral image classification. The given codes are written on the University of Pavia data set and the unbiased University of Pavia data set. When you want to try another hyperspectral imagery (HSI) datasets, you just need to replace the [data set](# Hyperspectral datasets) and update the corresponding training parameters. Please refer to [Usage](# Usage) for specific usage.This repository will also update in the feature for research exchange.
+Keras implementation of our method for hyperspectral image classification. The given codes are written on the University of Pavia data set and the unbiased University of Pavia data set. When you want to try another hyperspectral imagery (HSI) datasets, you just need to replace the [data set](<https://github.com/dangnianhefeng/CSSADN-HSIC#hyperspectral-datasets>) and update the corresponding training parameters. Please refer to [Usage](<https://github.com/dangnianhefeng/CSSADN-HSIC#usage>) for specific usage.This repository will also update in the feature for research exchange.
 
 ### Paper
 
